@@ -15,7 +15,7 @@ YOLOv5 has several benefits over other objects detected by other methods. It's f
 ![86477109-5a7ca780-bd7a-11ea-9cb7-48d9fd6848e7](https://github.com/KaiKenju/Faster-RCNN-YOLOv5/assets/94727276/bb642bb0-dc0b-4228-aad3-da47447b0b68)
 
 # Guide
-Step 1: Git clone this repository
+Step 1: Git clone this repository \n
 Step 2: In the problem1.ipynb, run the code
 Step 3: Finally, we got 
 ![image](https://github.com/KaiKenju/Faster-RCNN-YOLOv5/assets/94727276/c3f4ce8f-e603-4986-a640-4457cbf1a484)
