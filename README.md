@@ -16,12 +16,12 @@ YOLOv5 has several benefits over other objects detected by other methods. It's f
 
 # Guide
 Step 1: Git clone this repository \n
-Step 2: In the problem1.ipynb, run the code
+*** Step 2: In the problem1.ipynb, run the code
 Step 3: Finally, we got 
-![image](https://github.com/KaiKenju/Faster-RCNN-YOLOv5/assets/94727276/c3f4ce8f-e603-4986-a640-4457cbf1a484)
+![image](https://github.com/KaiKenju/Faster-RCNN-YOLOv5/assets/94727276/8af338f4-a7c6-4c44-b3fc-cc906eb181db)
 
 # Note
 You can addition more images in assets folder and change the number of dislay image.
 
-YOLOv5: https://github.com/ultralytics/yolov5, https://zenodo.org/record/3908560#.XvztLJMzalM
+YOLOv5: https://github.com/ultralytics/yolov5, https://zenodo.org/record/3908560#.XvztLJMzalM \n
 Faster-RCNN: https://arxiv.org/abs/1506.01497
