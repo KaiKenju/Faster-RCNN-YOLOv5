@@ -1,5 +1,5 @@
 # 🚀Faster-RCNN-YOLOv5
-### Object detection using Faster RCNN with YOLOv5 
+### Object detection implementation of Faster RCNN with YOLOv5 
 
 # 🚀 Faster R-CNN
 Tt uses CNN network to extract feature map. However, instead of using selective search to identify region proposals, Faster R-CNN uses Region proposal network (RPN) to predict region proposals. These predicted region proposals are reshaped using the RoI pooling layer and used to classify and determine the offsets of bounding boxes.
